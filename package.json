@@ -1,0 +1,13 @@
+{
+  "name": "promise-limit-all",
+  "version": "0.1.0",
+  "description": "Promise all with limit",
+  "main": "lib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/justforuse/promise-limit-all",
+  "keywords": ["promise", "pool", "all", "limit"],
+  "author": "justforuse",
+  "license": "ISC"
+}
