@@ -4,6 +4,8 @@
 
 This package let you control the number of async function at the same time
 
+[Codesandbox](https://codesandbox.io/s/promise-limit-all-demo-v80u1)
+
 ## Demo
 
 ```js
